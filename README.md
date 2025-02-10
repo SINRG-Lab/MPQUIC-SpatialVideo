@@ -65,3 +65,4 @@ Doc:
 https://github.com/SINRG-Lab/MPQUIC-SpatialVideo/blob/main/Docs/Code_Structure.md
 
 ### Meeting Slides:
+Feb/10/2025: https://github.com/SINRG-Lab/MPQUIC-SpatialVideo/blob/main/Slides/Spatial%20video%20on%20mp-quic.pdf
