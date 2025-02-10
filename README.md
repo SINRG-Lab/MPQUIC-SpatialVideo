@@ -72,5 +72,4 @@ Feb/10/2025: https://github.com/SINRG-Lab/MPQUIC-SpatialVideo/blob/main/Slides/S
 Project Free Space (Please update your progress/thought here):
  https://docs.google.com/document/d/1U1FicZHWTDL6VklWFNbdUiygOQR_2Mfj1LS7gblwp_c/edit?usp=sharing
 
-** Feel free to create your own folder in this repo and update related materials. Thanks!
-**
+**Feel free to create your own folder in this repo and update related materials. Thanks!**
