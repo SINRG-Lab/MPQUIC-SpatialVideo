@@ -50,7 +50,7 @@ Wang, Lingdong, Simran Singh, Jacob Chakareski, Mohammad Hajiesmaili, and Ramesh
 
 [https://github.com/thomaswpp/mpquic-sbd](https://github.com/thomaswpp/mpquic-sbd)
 
-(With instruction)
+(With instruction: https://github.com/SINRG-Lab/MPQUIC-SpatialVideo/blob/main/Docs/How_to_Run_the_Code.md)
 
 [https://github.com/qdeconinck/mp-quic](https://github.com/qdeconinck/mp-quic)
 
