@@ -61,7 +61,7 @@ Wang, Lingdong, Simran Singh, Jacob Chakareski, Mohammad Hajiesmaili, and Ramesh
 (With more scheduler implementation)
 
 ### Code_Structure:
-
-
+Doc:
+https://github.com/SINRG-Lab/MPQUIC-SpatialVideo/blob/main/Docs/Code_Structure.md
 
 ### Meeting Slides:
