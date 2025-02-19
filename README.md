@@ -16,6 +16,19 @@ Paiva, Thomas William do Prado, Simone Ferlin, Anna Brunstrom, Ozgu Alay, and Br
 
 Zheng, Zhilong, Yunfei Ma, Yanmei Liu, Furong Yang, Zhenyu Li, Yuanbo Zhang, Jiuhai Zhang, et al. “XLINK: QoE-Driven Multi-Path QUIC Transport in Large-Scale Video Services.” In *Proceedings of the 2021 ACM SIGCOMM 2021 Conference*, 418–32. Virtual Event USA: ACM, 2021. [https://doi.org/10.1145/3452296.3472893](https://doi.org/10.1145/3452296.3472893).
 
+Luo, J., Su, X. and Liu, B. (2019) ‘A Reinforcement Learning Approach for Multipath TCP Data Scheduling’, in 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC). 2019 IEEE 9th Annual Computing and Communication Workshop and Conference (CCWC), pp. 0276–0280. Available at: https://doi.org/10.1109/CCWC.2019.8666496.
+
+MP-VR: An MPTCP-Based Adaptive Streaming Framework for 360-degree Virtual Reality Videos | IEEE Conference Publication | IEEE Xplore (no date). Available at: https://ieeexplore.ieee.org/document/9500817 (Accessed: 15 February 2025).
+
+Xu, Z. et al. (2019) ‘Experience-Driven Congestion Control: When Multi-Path TCP Meets Deep Reinforcement Learning’, IEEE Journal on Selected Areas in Communications, 37(6), pp. 1325–1336. Available at: https://doi.org/10.1109/JSAC.2019.2904358.
+
+Dong, P. et al. (2023) ‘Multipath TCP Meets Reinforcement Learning: A Novel Energy-Efficient Scheduling Approach in Heterogeneous Wireless Networks’, IEEE Wireless Communications, 30(2), pp. 138–146. Available at: https://doi.org/10.1109/MWC.013.2100658.
+
+Multi-path multi-tier 360-degree video streaming in 5G networks | Proceedings of the 9th ACM Multimedia Systems Conference (no date). Available at: https://dl.acm.org/doi/abs/10.1145/3204949.3204978 (Accessed: 15 February 2025).
+
+Dhawaskar Sathyanarayana, S. et al. (2023) ‘Converge: QoE-driven Multipath Video Conferencing over WebRTC’, in Proceedings of the ACM SIGCOMM 2023 Conference. New York, NY, USA: Association for Computing Machinery (ACM SIGCOMM ’23), pp. 637–653. Available at: https://doi.org/10.1145/3603269.3604822.
+
+
 **Spatial Video**
 
 Chen, Guodong, Sizhe Wang, Jacob Chakareski, Dimitrios Koutsonikolas, and Mallesham Dasari. “Spatial Video Streaming on XR Headsets,” 2025.
